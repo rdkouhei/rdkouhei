@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning Machine Learning, Autonomous Driving, DevOps, Software Design.
+
 <!--
 **rdkouhei/rdkouhei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
